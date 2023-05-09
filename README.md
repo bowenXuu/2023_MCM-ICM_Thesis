@@ -1,4 +1,4 @@
-# 2023 MCM-ICM Thesis
+# 2023_MCM-ICM_Thesis
 
 2023年美国大学生数学建模竞赛 Meritorious Winner 参赛作品
 
