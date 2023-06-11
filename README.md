@@ -12,7 +12,7 @@ Busting the Myths: A Quest for Predicting Wordle Results
 
 **Authors**: 
 
-Jintang Liu, [Bowen Xu](https://github.com/bowenXuu), Yuhao Cao
+Jintang Liu, [Bowen Xu](https://github.com/bowenXuu), [Yuhao Cao](https://github.com/ZorAttC)
 
 ## Certificate
 
